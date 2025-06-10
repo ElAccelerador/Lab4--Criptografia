@@ -10,7 +10,10 @@ Este proyecto depende de la librería **PyCryptodome**. Para instalarla, ejecuta
 
 ```bash
 pip install pycryptodome
-
+````
+## Ejemplo de uso
+Lo siguiente es ejecutar el archivo Lab4.py e ingresar los datos como el ejemplo a continuación:
+```bash
 Ingrese la clave (8 bytes para DES, 32 bytes para AES-256, 24 bytes para 3DES):
 mi_clave_1234
 
